@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1547.669" height="494" viewBox="0 0 1547.669 494">
+  <g id="Group_3" data-name="Group 3" transform="translate(-201 -254)">
+    <g id="Group_2" data-name="Group 2">
+      <g id="logo_KAKOO_SVGFORMAT_1_" data-name="logo KAKOO SVGFORMAT (1)" transform="translate(-4.44 156.932)">
+        <path id="Path_1" data-name="Path 1" d="M205.8,200.4H322.751L205.8,362.441Z" transform="translate(0 0)" fill="#3f5d50"/>
+        <path id="Path_2" data-name="Path 2" d="M263.272,551.1l98.463,137.446H205.8V627.018Z" transform="translate(0 -200.957)" fill="#3f5d50"/>
+        <path id="Path_3" data-name="Path 3" d="M502.056,335.043,599.024,200.5H480.066L398,315.316,521.1,487.647h80.017l-99.146-142.7A8.674,8.674,0,0,1,502.056,335.043Z" transform="translate(-110.134 -0.057)" fill="#9c2829"/>
+      </g>
+      <text id="AK" transform="translate(499.214 645)" fill="#3f5d50" font-size="410" font-family="AvenirLTStd-Black, Avenir LT Std" font-weight="800"><tspan x="0" y="0">AK</tspan></text>
+      <text id="SOFTWARE_SOLUTIONS" data-name="SOFTWARE SOLUTIONS" transform="translate(970 726)" fill="#9c2829" font-size="65" font-family="AvenirLTStd-Black, Avenir LT Std" font-weight="800"><tspan x="0" y="0">SOFTWARE SOLUTIONS</tspan></text>
+      <g id="Infinity-Symbol" transform="translate(1057.675 298.756)">
+        <g id="Group_1" data-name="Group 1" transform="translate(46.211 54.576)">
+          <path id="Path_4" data-name="Path 4" d="M72.252,207.99C69.665,97.345,190.409,19.632,296.387,80.362c34.913,20.007,64.551,49.638,96.418,82,1.449,1.471,2.118,1.319,3.474-.047C446.124,112.069,518.3,35.452,619.388,65.261,661.931,77.806,691.494,105.408,706.64,147c50.69,139.2-94.714,254.449-219.4,178.051-31.448-19.268-58.607-45.856-90.71-78.551-1.714-1.745-2.487-1.5-4.053.082C356,283.361,316.741,323.339,268.248,340.075,169.57,374.133,74.972,315.329,72.252,207.99ZM134,205.845c3.146,63.914,52.31,93.709,104.693,82.379,45.27-9.791,83.246-49.606,115.592-82.856,1.09-1.12.479-1.575-.27-2.274-28.094-26.223-55.529-58.255-90.106-74.739C196.894,96.407,133.774,143.26,134,205.845Zm521.07-2.7c-1.991-61.768-50.722-95.428-106.876-82.257-44.182,10.363-81.936,49.989-113.3,82.218-1.088,1.118-.67,1.64.221,2.472,39.219,36.6,85.5,94.386,148.028,83.854C624.791,282.417,655.163,246.139,655.07,203.144Z" transform="translate(-72.211 -58.576)" fill="#3f5d50"/>
+        </g>
+      </g>
+    </g>
+    <g id="_1475409574" data-name="1475409574" transform="translate(196.36 671)">
+      <rect id="imagebot_2" width="736" height="55" transform="translate(4.64 5)" fill="#9c2829"/>
+    </g>
+  </g>
+</svg>
