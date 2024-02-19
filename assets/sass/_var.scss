@@ -1,0 +1,73 @@
+$success: rgb(22, 179, 74);
+$warning: rgb(219, 116, 19);
+$info: rgb(77, 204, 221);
+$danger: red;
+$defaultColor: #3f5d50;
+$defaultBackGround: white;
+$bar-color: #3f5d50;
+$ball-color: #3f5d50;
+$bg-color: #3f5d50;
+$primary-col: #3f5d50;
+$primary-light: #f1f8e9;
+$primary-dark: #273b33;
+$font-family: Avenir;
+
+$font-h1: 16px;
+$font-h2: 14px;
+$font-h3: 20px;
+$font-p: 14px;
+$fontp: 12px;
+
+$button-height: 35px;
+$font-icon: 12px;
+
+%myButton {
+  -moz-box-shadow: inset 0px 1px 0px 0px #fff;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #fff;
+  box-shadow: inset 0px 1px 0px 0px #fff;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.05, #fff),
+    color-stop(1, #fff)
+  );
+  background: -moz-linear-gradient(top, #fff 5%, #fff 100%);
+  background: -webkit-linear-gradient(top, #fff 5%, #fff 100%);
+  background: -o-linear-gradient(top, #fff 5%, #fff 100%);
+  background: -ms-linear-gradient(top, #fff 5%, #fff 100%);
+  background: linear-gradient(to bottom, #fff 5%, #fff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff', endColorstr='#fff',GradientType=0);
+  background-color: #fff;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  display: inline-block;
+  cursor: pointer;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 2px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #fff;
+}
+%myButton:hover {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0.05, #e9e9e9),
+    color-stop(1, #f9f9f9)
+  );
+  background: -moz-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+  background: -webkit-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+  background: -o-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+  background: -ms-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
+  background: linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9',GradientType=0);
+  background-color: #fff;
+}
+%myButton:active {
+  position: relative;
+  top: 1px;
+}
